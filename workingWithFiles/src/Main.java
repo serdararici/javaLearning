@@ -11,7 +11,6 @@ public class Main {
         readFile();
     }
 
-
     public static void createFile() {
         File file = new File("C:\\javademos\\files\\students.txt");
         try {
